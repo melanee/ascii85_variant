@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ascii_x85sl",
-    version="0.0.2",
+    version="0.0.1",
     author="Melanee Hannah",
     author_email="melaneehannah@oogets.email",
     description="A ascii85 variant package with optional symbols translation to alpha characters",
